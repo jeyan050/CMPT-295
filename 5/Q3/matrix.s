@@ -1,5 +1,6 @@
 #	File: matrix.s
-#	Name: Justin Yan
+#	Name: Justin Yan 
+#	Student Number: 301403282
 #	Date: March 10 2021
 #	Purpsoe: Assignment 5 Quesiton 3:
 #			 To manipulate 2D arrays in assembly code

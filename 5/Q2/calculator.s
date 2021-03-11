@@ -1,5 +1,6 @@
 #	File: calculator.s
 #	Name: Justin Yan
+#	Student Number: 301403282
 #	Date: March 10 2021
 #	Purpsoe: Assignment 5 Quesiton 2:
 #			 To perform some algorithmic and logical calculations
